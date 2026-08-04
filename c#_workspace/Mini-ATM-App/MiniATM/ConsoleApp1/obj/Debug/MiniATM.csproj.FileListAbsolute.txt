@@ -1,0 +1,16 @@
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Volkan\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Volkan\Desktop\MiniATM\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
